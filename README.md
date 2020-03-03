@@ -6,8 +6,8 @@ This module attends to change csc features by replacing the relevant xml files i
 
 ## Credits
 
-• @topjohnwu for magisk and magiskboot used here for its easy-to-use hexpatcher
-• me
+- @topjohnwu for magisk and magiskboot used here for its easy-to-use hexpatcher
+- me
 
 ## Source code
 
