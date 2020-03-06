@@ -1,8 +1,8 @@
-# Csc Features
+# Samsung Csc Features
 
 ## Description
 
-This module attends to change csc features by replacing the relevant xml files in /product/omc/<CSC CODE>/conf. Magisk v20.0+ is required to replace /product.
+This module intends to change CSC features by replacing the relevant xml files in `/product/omc/<CSC CODE>/conf`. Magisk v20.0+ is required to replace `/product`.
   
 ## How to
 
@@ -21,9 +21,16 @@ This module attends to change csc features by replacing the relevant xml files i
 
 ## Source code
 
-[Github](https://github.com/alexdonh/magisk-module-cscfeatures)
+[Github](https://github.com/alexdonh/magisk-samsung-csc-features)
 
 ## Changelog
+
+### v1.1
+
+- Add CscFeature_Camera_DefaultQuality
+- Add CscFeature_Camcorder_DefaultQuality
+- Add CscFeature_SmartManager_DisableAntiMalware
+- Add Samsung App Lock (Settings -> Advanced Features -> App lock)
 
 ### v1.0
 
