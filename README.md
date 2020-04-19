@@ -25,6 +25,15 @@ This module intends to change CSC features by replacing the relevant xml files i
 
 ## Changelog
 
+### v1.2
+
+- Add CscFeature_Setting_EnableMenuBlockCallMsg: This enables call/message block in Settings
+- Add CscFeature_SystemUI_SupportRecentAppProtection
+- Add CscFeature_Setting_SupportRealTimeNetworkSpeed
+- Add CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel
+- Add CscFeature_Camera_EnableCameraDuringCall
+- Add CscFeature_Setting_DisableMenuSoftwareUpdate: You cant get software update to work with root anyways
+
 ### v1.1
 
 - Add CscFeature_Camera_DefaultQuality
